@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Run the project on a device. 
+To change de route of the screen 
+  - go to main.dart
+  - change de field initialRoute
+  - put one o the 3 routes below
+  ex: 
+  initialRoute: 'basic_design',
+  
+  hot reload the project
